@@ -1,0 +1,22 @@
+
+.jumbotron,.p,.col-sm-4{
+    font-family: 'Montserrat', sans-serif;
+}
+.jumbotron{
+    text-align:center;
+}
+
+.row{
+    align-content: center;
+}
+.blockquote{
+    background-color: #E5E0FA;
+    padding: 10px;
+}
+.col-sm-3{
+    background-color: #E5E0FA;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    /*border-style: solid;
+    border-bottom-width: thin;*/
+}
